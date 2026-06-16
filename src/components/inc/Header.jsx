@@ -79,7 +79,7 @@ function Header() {
               <div className="p-6 border-t border-gray-100 bg-gray-50/50 space-y-4">
                 <div className="flex justify-between items-center text-gray-900">
                   <span className="font-medium text-sm text-gray-500">Ümumi Məbləğ:</span>
-                  <span className="text-2xl font-black text-red-600">12.90 AZN</span>
+                  <span className="text-2xl font-black text-red-600">Hələki hazır deyil !</span>
                 </div>
                 <button className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-2xl transition-all duration-300 shadow-lg shadow-red-600/20 text-center block cursor-pointer">Sifarişi Rəsmiləşdir 🚀</button>
                 <button onClick={() => setOpenCart(false)} className="w-full text-center text-sm font-semibold text-gray-500 hover:text-gray-800 transition-colors py-1 cursor-pointer">Alış-verişə davam et</button>
